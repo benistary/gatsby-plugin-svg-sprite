@@ -1,5 +1,7 @@
 # gatsby-plugin-svg-sprite
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcobiedermann/gatsby-plugin-svg-sprite.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/gatsby-plugin-svg-sprite.svg)](https://badge.fury.io/js/gatsby-plugin-svg-sprite)
 [![dependencies Status](https://david-dm.org/marcobiedermann/gatsby-plugin-svg-sprite/status.svg)](https://david-dm.org/marcobiedermann/gatsby-plugin-svg-sprite)
 
